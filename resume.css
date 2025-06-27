@@ -1,0 +1,38 @@
+body{
+	margin:0;
+}
+	
+h1{
+	padding-top:20px;
+	margin-top:0;
+	font-size:42px;
+}
+section{
+	
+	background-color:#d6ecec;
+	border-bottom:2px solid black;
+	padding-bottom:0;
+	padding-left:30px;
+padding-right:30px;
+}
+img{
+	position:absolute;
+	top:35px;
+	right:10px;
+	border-radius:50%;
+	margin-right:60px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
+}
+p{
+	line-height:1;
+}
+.sizing{
+	font-size:18px;
+}
+.place{
+	margin-top:100px;
+}
+.border{
+	padding-left:30px;
+padding-right:30px;
+}
